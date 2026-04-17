@@ -1,9 +1,29 @@
 # 🧺 Mini Laundry Order Management System
 
+🔗 GitHub Repository: https://github.com/Azlan-Ul-Haque-git/Laundary-project-system
+
 ## 📌 Overview
 
 This is a lightweight laundry order management system built using an AI-first approach.
 It allows dry cleaning businesses to manage orders, track status, and monitor basic analytics.
+This system demonstrates real-world order management workflows including creation, status tracking, filtering, and analytics using a full-stack approach.
+
+---
+
+## 💡 Why This Project
+
+This project simulates a real-world laundry business workflow, focusing on speed, simplicity, and practical usability rather than over-engineering.
+
+---
+
+## ▶️ How to Use
+
+1. Enter customer name and phone number  
+2. Click **Create Order**  
+3. View order in list below  
+4. Update status using dropdown  
+5. Use search to find specific orders  
+6. Check dashboard for analytics  
 
 ---
 
@@ -148,19 +168,27 @@ http://localhost:3000
 
 ## 📷 Screenshots
 
-### UI
+### 🖥️ Dashboard & UI
+Shows main interface with order creation and list view  
 ![UI](./screenshots/ui1.png)
 
-### Order Created
+---
+
+### 📦 Order Created
+Demonstrates successful order creation  
 ![Order](./screenshots/order1.png)
 
-### Order Status
-![Order](./screenshots/orderstatus.png)
+---
 
-### API Response
-![API](./screenshots/api.png)
+### 🔄 Order Status Update
+Shows status transition functionality  
+![Order Status](./screenshots/orderstatus.png)
 
 ---
+
+### ⚙️ API Response
+Backend API working via Thunder Client  
+![API](./screenshots/api.png)
 
 ## 👨‍💻 Author
 
